@@ -14,4 +14,10 @@
         <li><strong>Responsive Design:</strong> Fully responsive design ensuring compatibility with various devices and screen sizes.</li>
   </ul>
     
-  
+<h2>Technologies Used</h2>
+    <ul>
+        <li><strong>Frontend:</strong> HTML5</li>
+        <li><strong>Frontend:</strong> CSS3</li>
+        <li><strong>Frontend:</strong> JavaScript</li>
+        <li><strong>Frontend:</strong> React.js</li>
+    </ul>  
