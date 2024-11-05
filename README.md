@@ -21,3 +21,5 @@
         <li><strong>Frontend:</strong> JavaScript</li>
         <li><strong>Frontend:</strong> React.js</li>
     </ul>  
+  <h2>Licence</h2>
+  MIT LICENCE
